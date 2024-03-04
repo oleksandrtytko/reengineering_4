@@ -1,5 +1,7 @@
 # reengineering_4
 
+**Parallel streams:**
+
 ![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/9a277a82-a875-48b0-8ca9-1f24a72de1f3)
 
 
@@ -7,7 +9,7 @@
 
 ![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/73093208-1b8b-4c88-ae38-b18efc5511c2)
 
-
+**Reading byte by byte in for loop (one thread):**
 
 ![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/fad1e087-9e77-4dde-ae72-a687a5a93209)
 
