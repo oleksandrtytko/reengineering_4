@@ -26,6 +26,7 @@ public class Main {
         LocalDateTime startAppTime = LocalDateTime.now();
         Files.readAllLines(Paths.get(HARRY_POTTER_TEXT_PATH_STRING), StandardCharsets.ISO_8859_1)
                 .stream()
+                .parallel()
                 .flatMap(textLine -> Arrays.stream(textLine.split("[^A-Za-z ]")))
                 .collect(Collectors.groupingBy(Function.identity(), Collectors.counting()))
                 .entrySet()
