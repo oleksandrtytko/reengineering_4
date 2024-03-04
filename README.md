@@ -9,9 +9,10 @@
 
 ![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/73093208-1b8b-4c88-ae38-b18efc5511c2)
 
-**Reading byte by byte in for loop (one thread):**
+**Reading byte by byte in for loop (one thread, https://github.com/oleksandrtytko/reengineering_3):**
 
-![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/fad1e087-9e77-4dde-ae72-a687a5a93209)
+![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/ae7970c1-8d99-4a3e-813e-3423d91d2848)
+
 
 ![image](https://github.com/oleksandrtytko/reengineering_4/assets/124786943/7ea2e92f-f307-4eb5-8ce7-19c46944e343)
 
